@@ -6,3 +6,4 @@ https://scikit-learn.org/stable/modules/sgd.html#regression
 https://github.com/emjako/pythondatascientist
 https://mrmint.fr/logistic-regression-iris-dataset
 https://github.com/ybenzaki/LOGISTIC-REGRESSION-TUTORIAL-MRMINT
+https://publications.polymtl.ca/2862/1/2017_LouisMarcMercier.pdf
